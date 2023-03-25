@@ -80,7 +80,7 @@ HELP_3 = """✅<u>**Bot Commands:**</u>
 
 HELP_4 = """✅<u>**Extra  Commands:**</u>
 /start - Start the Music Bot.
-/help  - Get Commands Helper Menu with detailed explanations of commands.
+/mhelp  - Get Commands Helper Menu with detailed explanations of commands.
 /ping- Ping the Bot and check Ram, Cpu etc stats of Bot.
 
 ✅<u>**Group Settings:**</u>
